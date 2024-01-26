@@ -1,6 +1,6 @@
 # calculator
 
-Calculator sederhana dari flutter (By Djony)
+Calculator sederhana dari flutter (By Djony.
 
 ## Getting Started
 
