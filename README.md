@@ -2,6 +2,10 @@
 
 Calculator sederhana dari flutter (By Djony).
 
+Just For Fun
+
+No Baper Baper !!!
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
